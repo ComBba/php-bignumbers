@@ -14,6 +14,12 @@
 		"issues": "http://github.com/ComBba/php-bignumbers/issues",
 		"source": "http://github.com/ComBba/php-bignumbers"
 	},
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ComBba/php-exceptions"
+        }
+	],
 	"require": {
 		"php": ">=5.4.0",
 		"ext-bcmath": "*",
