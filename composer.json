@@ -1,5 +1,5 @@
 {
-	"name": "litipk/php-bignumbers",
+	"name": "ComBba/php-bignumbers",
 	"description": "An opensource library to handle immutable big numbers inside PHP applications",
 	"keywords": ["bignum", "number", "decimal", "gmp", "bcmath"],
 	"license": "MIT",
@@ -11,8 +11,8 @@
 	],
 	"support": {
 		"email": "castarco@litipk.com",
-		"issues": "http://github.com/Litipk/php-bignumbers/issues",
-		"source": "http://github.com/Litipk/php-bignumbers"
+		"issues": "http://github.com/ComBba/php-bignumbers/issues",
+		"source": "http://github.com/ComBba/php-bignumbers"
 	},
 	"require": {
 		"php": ">=5.4.0",
@@ -28,7 +28,7 @@
 	"minimum-stability": "stable",
 	"autoload": {
 		"psr-4": {
-			"Litipk\\BigNumbers\\": "src/"
+			"ComBba\\BigNumbers\\": "src/"
 		}
 	}
 }
